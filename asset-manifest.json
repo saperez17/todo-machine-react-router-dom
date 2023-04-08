@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "//curso-react-router-proyecto2/static/css/main.524cddae.chunk.css",
-    "main.js": "//curso-react-router-proyecto2/static/js/main.9c3e6952.chunk.js",
-    "main.js.map": "//curso-react-router-proyecto2/static/js/main.9c3e6952.chunk.js.map",
-    "runtime-main.js": "//curso-react-router-proyecto2/static/js/runtime-main.f4c9f620.js",
-    "runtime-main.js.map": "//curso-react-router-proyecto2/static/js/runtime-main.f4c9f620.js.map",
-    "static/js/2.cc870e49.chunk.js": "//curso-react-router-proyecto2/static/js/2.cc870e49.chunk.js",
-    "static/js/2.cc870e49.chunk.js.map": "//curso-react-router-proyecto2/static/js/2.cc870e49.chunk.js.map",
-    "index.html": "//curso-react-router-proyecto2/index.html",
-    "static/css/main.524cddae.chunk.css.map": "//curso-react-router-proyecto2/static/css/main.524cddae.chunk.css.map",
-    "static/js/2.cc870e49.chunk.js.LICENSE.txt": "//curso-react-router-proyecto2/static/js/2.cc870e49.chunk.js.LICENSE.txt",
-    "static/media/check.fa4fb594.svg": "//curso-react-router-proyecto2/static/media/check.fa4fb594.svg",
-    "static/media/delete.331149da.svg": "//curso-react-router-proyecto2/static/media/delete.331149da.svg",
-    "static/media/edit.8cfd1d84.svg": "//curso-react-router-proyecto2/static/media/edit.8cfd1d84.svg"
+    "main.css": "/todo-machine-react-router-dom/static/css/main.524cddae.chunk.css",
+    "main.js": "/todo-machine-react-router-dom/static/js/main.d23a2267.chunk.js",
+    "main.js.map": "/todo-machine-react-router-dom/static/js/main.d23a2267.chunk.js.map",
+    "runtime-main.js": "/todo-machine-react-router-dom/static/js/runtime-main.bef4e3f2.js",
+    "runtime-main.js.map": "/todo-machine-react-router-dom/static/js/runtime-main.bef4e3f2.js.map",
+    "static/js/2.917c7fff.chunk.js": "/todo-machine-react-router-dom/static/js/2.917c7fff.chunk.js",
+    "static/js/2.917c7fff.chunk.js.map": "/todo-machine-react-router-dom/static/js/2.917c7fff.chunk.js.map",
+    "index.html": "/todo-machine-react-router-dom/index.html",
+    "static/css/main.524cddae.chunk.css.map": "/todo-machine-react-router-dom/static/css/main.524cddae.chunk.css.map",
+    "static/js/2.917c7fff.chunk.js.LICENSE.txt": "/todo-machine-react-router-dom/static/js/2.917c7fff.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/todo-machine-react-router-dom/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/todo-machine-react-router-dom/static/media/delete.331149da.svg",
+    "static/media/edit.8cfd1d84.svg": "/todo-machine-react-router-dom/static/media/edit.8cfd1d84.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f4c9f620.js",
-    "static/js/2.cc870e49.chunk.js",
+    "static/js/runtime-main.bef4e3f2.js",
+    "static/js/2.917c7fff.chunk.js",
     "static/css/main.524cddae.chunk.css",
-    "static/js/main.9c3e6952.chunk.js"
+    "static/js/main.d23a2267.chunk.js"
   ]
 }
